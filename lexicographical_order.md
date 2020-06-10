@@ -1,5 +1,6 @@
 # 顺序版-便于查询及后期编写
 *删除部分单词*
+*加粗的是我比较喜欢的单词*
 ---
 ## Unit 01
 - abandon
@@ -103,3 +104,48 @@
 >> skill 技巧，技能
 
 - able
+
+> - *有能力的，熟练的，能够...的*（由于部分词义过于接近难以分割）
+>> **adept 熟练的**
+>>
+>> adequate 合乎要求的
+>>
+>> adroit 精明的，干练的（接人待物）
+>>
+>> agile 动作灵活的，思维敏捷的
+>>
+>> apt 天资聪颖的
+>>
+>> capable 有能力的，足够胜任的
+>>
+>> **competent 有能力的，足够胜任的**
+>>
+>> deft 熟练的，有技巧的，灵巧的
+>>
+>> dexterous 熟练的，敏捷的
+>>
+>> endowed 有天赋的
+>>
+>> powerful 有效的，有能力的
+>>
+>> brilliant 技艺高的
+>>
+>> **capable 能够的**
+>>
+>> effectual 奏效的，有效的
+>>
+>> gifted 天资聪慧的
+>>
+>> masterful 技艺精湛的，娴熟的
+>>
+>> **proficient 熟练的**
+>>
+>> qualified 有……能力的，有资格的
+>>
+>> savvy 有见识的，有了解的
+>>
+>> trained
+>>
+>> talented
+
+- abnormal
