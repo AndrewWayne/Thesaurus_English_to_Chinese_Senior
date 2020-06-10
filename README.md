@@ -6,3 +6,5 @@
 顺序版的3500同义词点开lexicographical_order.md即可，Chrome可以用ctrl+F快速查询，之后会按照使用场景分类。
 
 有没有想要一起来完善的啊，可以加q:965296197，email:andrew030305@qq.com，或者直接github pull
+
+如果有什么修改上的建议，或者认为可以删减某些词，添加某些词都可以通过issue/email/qq的方式告诉我。
