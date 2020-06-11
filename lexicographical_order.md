@@ -195,4 +195,17 @@
 >>
 >> roughly 大约地，大略地
 > - prep. 关于
+>> concerning 关于
 >>
+>> regarding 关于
+>>
+>> as concerns 关于
+>>
+>> as regards 关于
+>>
+>> in connection with 与……有关
+>>
+>> referring to 涉及，有关（不常用）
+>>
+>> touching on 谈到，谈及
+> 
