@@ -173,11 +173,13 @@
 > - prep./adv. 上（交通工具），在（交通工具）上
 >> on board 在……上
 >>
->> in transit 在途中
+>> **in transit** 在途中；运输途中
+>>
+>> on one's way 在路上
 
 - abolish
 > - v.废除，废止（法律，制度，习俗）
->> abrogate 废除，废止，撤销（法律，协议）
+>> **abrogate** 废除，废止，撤销（法律，协议）
 >>
 >> call off 取消
 >>
@@ -187,15 +189,15 @@
 >>
 >> invalidate 使无效，使作废（合同，法案）
 >>
->> negate 使（药品等）失效，取消
+>> **negate** 使（药品等）失效，取消
 >>
 >> prohibit 禁止，阻止（以法令）
 >>
 >> put kibosh on 使……破灭 **slang**
 >>
->> quash 撤销废止（确定/判决）；宣布无效
+>> **quash** 撤销废止（确定/判决）；宣布无效
 >>
->> rescind （官方地）废除，取消（法律，合同，决定）
+>> **rescind** （官方地）废除，取消（法律，合同，决定）
 >>
 >> void （法律上）使无效，宣布……作废
 
@@ -223,7 +225,7 @@
 >>
 >> as concerns 关于
 >>
->> as regards 关于
+>> as regards 关于（这几个关于意思好像没啥差距）
 >>
 >> in connection with 与……有关
 >>
