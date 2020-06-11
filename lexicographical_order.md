@@ -28,7 +28,6 @@
 >> walk out on 离开，抛弃（人，物）
 >>
 >> jilt 抛弃，遗弃（情人）
->
 > - *放弃，终止（责任，义务，项目...）*
 >> abdicate 放弃（职责）
 >>
@@ -75,7 +74,6 @@
 >> potentiality 潜力
 >>
 >> talent 天赋
->
 > - *才能，技艺 （可数/不可数）（天生的，或学习得到的技能）*
 >> adeptness 才能
 >>
@@ -161,7 +159,7 @@
 >>
 >> **odd 奇异的**
 >>
->> **peculiar 怪异的，奇怪的，不寻常的**
+>> **peculiar 怪异的，不寻常的；特有的**
 >>
 >> irregular 不正常，不合乎常规的
 >>
@@ -177,9 +175,33 @@
 >>
 >> in transit 在途中
 
+- abolish
+> - v.废除，废止（法律，制度，习俗）
+>> abrogate 废除，废止，撤销（法律，协议）
+>>
+>> call off 取消
+>>
+>> dissolve 终止（商业协议）
+>>
+>> end 结束，终止
+>>
+>> invalidate 使无效，使作废（合同，法案）
+>>
+>> negate 使（药品等）失效，取消
+>>
+>> prohibit 禁止，阻止（以法令）
+>>
+>> put kibosh on 使……破灭 **slang**
+>>
+>> quash 撤销废止（确定/判决）；宣布无效
+>>
+>> rescind （官方地）废除，取消（法律，合同，决定）
+>>
+>> void （法律上）使无效，宣布……作废
+
 - about
 > - adv. 四处，到处
->> here and there **informal**
+>> here and there 到处**informal**
 >>
 >> around 到处
 > - adv. 大约，接近（一个数量）
@@ -208,4 +230,7 @@
 >> referring to 涉及，有关（不常用）
 >>
 >> touching on 谈到，谈及
-> 
+> - adj. 接近（某地）
+>> adjacent 临近的
+>>
+>> nearby 在附近的
