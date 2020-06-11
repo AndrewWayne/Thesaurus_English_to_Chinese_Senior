@@ -4,11 +4,10 @@
 ---
 ## Unit 01
 - abandon
-
 > - *逃离，离弃（某地）*
 >> desert 舍弃，离弃，逃走
 >>
->> take a powder 逃跑（不及物）
+>> take a powder 逃跑（不及物）**slang**
 >>
 >> forsake 抛弃，离开（不履行责任，对人）
 > - *遗弃，抛弃（某人）*
@@ -46,7 +45,6 @@
 >> quit
 
 - ability
-
 > - *能力（不可数）（指能够做某事的能力）*
 >> aptitude 天赋
 >>
@@ -62,7 +60,7 @@
 >>
 >> dexterity 动手能力，思维能力
 >>
->> endowment 天赋
+>> **endowment 天赋**
 >>
 >> facility 天资，天赋
 >>
@@ -106,7 +104,6 @@
 >> skill 技巧，技能
 
 - able
-
 > - *有（超出平均水平）能力的，熟练的，能够...的*（由于部分词义过于接近难以分割）
 >> **adept 熟练的**
 >>
@@ -151,3 +148,51 @@
 >> talented
 
 - abnormal
+> - 不正常的，反常的，畸形的
+>> aberrant 违反常规的，异常的
+>>
+>> atypical 非典型的，反常的，特殊的
+>>
+>> **bizarre 极其怪诞的，异乎寻常的**
+>>
+>> deviant 不正常的，脱离正轨的，畸形的
+>>
+>> extraordinary 奇怪的，不平常的，非凡的，卓越的
+>>
+>> **odd 奇异的**
+>>
+>> **peculiar 怪异的，奇怪的，不寻常的**
+>>
+>> irregular 不正常，不合乎常规的
+>>
+>> strange
+>>
+>> uncommon
+>>
+>> weird
+
+- aboard
+> - prep./adv. 上（交通工具），在（交通工具）上
+>> on board 在……上
+>>
+>> in transit 在途中
+
+- about
+> - adv. 四处，到处
+>> here and there **informal**
+>>
+>> around 到处
+> - adv. 大约，接近（一个数量）
+>> almost 几乎（不能用not修饰）
+>>
+>> nearly 几乎（可以用not修饰）
+>>
+>> practically 几乎，差不多（和上面二者用法上有别）
+>>
+>> approximately 大约(数量，时间，位置)
+>>
+>> in the ball park 大致正确，在某一范围内 **slang**
+>>
+>> roughly 大约地，大略地
+> - prep. 关于
+>>
