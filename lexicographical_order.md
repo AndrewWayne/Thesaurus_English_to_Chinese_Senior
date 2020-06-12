@@ -163,9 +163,13 @@
 >>
 >> irregular 不正常，不合乎常规的
 >>
+>> eccentric 古怪的，异乎寻常的
+>>
 >> strange
 >>
 >> uncommon
+>>
+>> exceptional 卓越的，异常的，特别的，罕见的
 >>
 >> weird
 
@@ -183,29 +187,31 @@
 >>
 >> call off 取消
 >>
->> dissolve 终止（商业协议）
->>
->> end 结束，终止
->>
 >> invalidate 使无效，使作废（合同，法案）
 >>
 >> **negate** 使（药品等）失效，取消
 >>
->> prohibit 禁止，阻止（以法令）
->>
 >> put kibosh on 使……破灭 **slang**
->>
->> **quash** 撤销废止（确定/判决）；宣布无效
 >>
 >> **rescind** （官方地）废除，取消（法律，合同，决定）
 >>
->> void （法律上）使无效，宣布……作废
+>> quit 放弃，停止，使……解除
+>>
+>> revoke 取消，废除，使无效
 
 - about
 > - adv. 四处，到处
 >> here and there 到处**informal**
 >>
 >> around 到处
+> - adv. 几乎，大约（程度上）
+>> all but 几乎，差不多
+>>
+>> pretty much 差不多，基本上
+>>
+>> almost 几乎
+>>
+>> nearly 几乎
 > - adv. 大约，接近（一个数量）
 >> almost 几乎（不能用not修饰）
 >>
@@ -218,6 +224,10 @@
 >> in the ball park 大致正确，在某一范围内 **slang**
 >>
 >> roughly 大约地，大略地
+>>
+>> more or less 大约
+>>
+>> or so 大约
 > - prep. 关于
 >> concerning 关于
 >>
@@ -227,12 +237,135 @@
 >>
 >> as regards 关于（这几个关于意思好像没啥差距）
 >>
+>> with/in regard to/of 关于，至于**informal可用，formal不一定**
+>>
 >> in connection with 与……有关
 >>
 >> referring to 涉及，有关（不常用）
 >>
 >> touching on 谈到，谈及
+>>
+>> when it comes to 提到，关于
+>>
+>> with/in respect to/of 关于，至于 **informal可用，formal不一定**
 > - adj. 接近（某地）
 >> adjacent 临近的
 >>
 >> nearby 在附近的
+
+- abroad
+> - adv.在国外，到国外
+>> overseas 在海外
+>>
+>> elsewhere 在别处
+> - adv.广为流传
+
+- abrupt
+> - adj.（言语行为）粗鲁莽撞的，简短生硬的
+>> blunt 直言的
+>>
+>> brusque （言语行为）简短生硬的
+>>
+>> crude （人或言语行为）冒犯的，粗鲁的
+>>
+>> curt (行为举止)简短而失礼的，唐突无礼的
+>>
+>> discourteous 不礼貌的，失礼的，粗鲁的
+>>
+>> impolite
+>>
+>> rude
+>>
+>> snappy 粗野无礼的，盛气凌人的**informal**
+> - 突然的，意外的
+>> sudden
+>>
+>> unexpected 出乎意料的，始料不及的
+>>
+>> unanticipated 没想到的，预料之外的
+>>
+>> unforeseen 未预见的
+>>
+>> precipitate 草率的，突然的
+>>
+>> hasty 草率的，匆忙的
+
+- absence
+> - 不在，缺席
+> - n.缺乏 （of 只做单数）
+>> dearth 缺乏
+>>
+>> inadequacy 不足，缺乏（某种东西）**sing**
+>>
+>> insufficiency 不充足，缺乏**plural**
+>>
+>> lack
+
+- absent
+> - 缺席的，不在的（from）
+>> elsewhere adv.在别处
+>>
+>> away
+>> missing adj.未出席
+> - 缺乏的
+>> lacking 缺乏的（in）
+>>
+>> deficient 缺乏的（in）
+> - 心不在焉的，出神的
+>> distracted 分心的
+>>
+>> inattentive 无注意的
+>>
+>> abstracted 出神的
+>>
+>> absent-minded
+>>
+>> dreamy 恍惚的，心不在焉的
+>>
+>> faraway 心不在焉的（常作定语）
+>>
+>> oblivious 未察觉的
+>>
+>> unconscious 未意识到的，无意识的
+>>
+>> unmindful 不留心的，心不在焉的
+
+- absolute
+> - 十足的，绝对的，断然的
+>> complete 完全的，彻底的
+>>
+>> entire 完全的，绝对的
+>>
+>> sheer 十足的，完全的
+>>
+>> utter 十足的，极度的
+>>
+>> thorough 彻底的，全面的
+>>
+>> arrant 十足的
+> - 完全正确的，无可争议的
+>> certain 确定的，确信的
+>>
+>> defenite 绝对的
+>>
+>> categorical 无可争议的，绝对的
+>>
+>> undoubted 毋庸置疑的
+>>
+>> conclusive 确定的，确凿的
+> - 至高无上的
+>> unlimited 无限制的
+>>
+>> unbounded 无限的
+>>
+>> ultimate 终极的
+>>
+>> supreme 至上的
+> - 绝对的（数学）
+> - 专制的
+> - 绝对的（与相对的概念相反）
+>> example: a absolute moral standards
+>>
+>> universal 普遍的，通用的
+>>
+>> nonrelative 非相对的
