@@ -274,19 +274,19 @@
 > - n.缺乏 （of 只做单数）
 >> dearth 缺乏
 >>
->> inadequacy 不足，缺乏（某种东西）**sing**
+>> inadequacy 不足，缺乏（某种东西）
 >>
->> insufficiency 不充足，缺乏 **plural**
+>> insufficiency 不充足，缺乏
 >>
 >> lack
 >>
->> deficiency 缺乏；缺陷 **plural**
+>> deficiency 缺乏；缺陷
 >>
->> deficit 缺钱 **plural**
+>> deficit 缺钱
 >>
 >> shortage 缺乏（of）
 >>
->> scarcity 缺乏，匮乏（供应不足)**plural**
+>> scarcity 缺乏，匮乏（供应不足)
 
 - absent
 > - 缺席的，不在的（from）
@@ -297,25 +297,27 @@
 > - 缺乏的
 >> lacking 缺乏的（in）
 >>
->> deficient 缺乏的（in）
+>> **deficient 缺乏的（in）**
 >>
 >> scarce 缺乏的，不足的，稀少的
 >>
 >> short of 缺乏
 >>
 >> in deficit 缺钱（作表语）
+>>
+>> insufficient 不足的，缺乏的
 > - 心不在焉的，出神的
 >> distracted 分心的
 >>
 >> inattentive 无注意的
 >>
->> abstracted 出神的
+>> **abstracted 出神的**
 >>
 >> absent-minded
 >>
->> dreamy 恍惚的，心不在焉的
+>> **dreamy 恍惚的，心不在焉的**
 >>
->> faraway 心不在焉的（常作定语）
+>> **faraway 心不在焉的（常作定语）**
 >>
 >> oblivious 未察觉的
 >>
@@ -329,9 +331,9 @@
 >>
 >> entire 完全的，绝对的
 >>
->> sheer 十足的，完全的
+>> **sheer 十足的，完全的**
 >>
->> utter 十足的，极度的
+>> **utter 十足的，极度的**
 >>
 >> wholly adv.完全地，全面地
 >>
@@ -351,7 +353,7 @@
 >>
 >> unquestionable 无疑的
 >>
->> undisputed 无可争辩的 **interchangeable**
+>> **undisputed 无可争辩的**
 >>
 >> conclusive 确定的，确凿的
 > - 至高无上的
@@ -374,8 +376,104 @@
 >>
 >> dictatorial 独裁的，专横的
 > - 绝对的（与相对的概念相反）
->> example: a absolute moral standards
+>> *example: a absolute moral standards*
 >>
 >> universal 普遍的，通用的
 >>
 >> nonrelative 非相对的
+
+- absorb
+> - vt.吸收
+>> soak up 吸收（液体，信息）
+>>
+>> ingest 吸收（食物），吸收（信息）
+>>
+>> sponge up 吸收（水分）**informal**
+>>
+>> **take in 摄入，吸入（食物）；理解，领悟（信息）**
+>>
+>> **assimilate 吸收，透彻理解（思想，技术，信息）**
+>>
+>> comprehend 理解，领悟，懂
+>>
+>> **digest 消化，吸收（食物，信息）**
+>>
+>> incorporate 吸收（技术，信息，方法）
+>>
+>> understand
+>> **grasp 理解，领会，领悟**
+> - vt.使……全神关注
+>> captivate 使……着迷
+>>
+>> **consume （使）沉溺，沉迷，充满（感情或思想）**
+>>> *example: The memories consumed him.*
+>> engage 吸引（注意力，兴趣）
+>>
+>> **immerse 使……沉浸 （in）**
+>>> *example: Since then I've lived alone and immersed myself in my career.*
+>> **engross 使全神贯注，使关注 （in）**
+>>
+>> preoccupy 使日夜思考
+
+- abstract
+> - 抽象的，纯理论的
+>> theoretical 理论的
+>>
+>> hypothetical 假设的
+>>
+>> ideal 理想的
+>>
+>> nonconcrete 不具体的
+>>
+> - 抽象派的
+> - n.摘要，梗概
+>> brief （案情）摘要；简介
+>>
+>> conspectus 概要
+>>
+>> digest 文摘，摘要
+>>
+>> outline 提纲，梗概
+>>
+>> summary 总结，概要
+> - v. 写……的摘要
+>> summarize v. 概括
+> - v. 提取
+>> extract 提取（与abstract有区别）
+
+- absurd
+> - 荒唐可笑的
+>> ridiculous 荒谬可笑的
+>>
+>> freaky 怪异可笑
+>>
+>> idiotic 愚蠢的
+>>
+>> preposterous 荒谬的，违背常理的
+>>
+>> nutty 疯狂的 **informal**
+>>
+>> daffy 古怪的，愚蠢的 **informal**
+
+- abundant
+> - 丰富的，充裕的，大量的
+>> plentiful 充足的
+>>
+>> abounding 十分充裕
+>>
+>> ample 足够的，大量的
+>>> *example: there is ample time for discussion.*
+>>
+>> generous （物）大量的，足够的
+>>
+>> liberal （给予，使用，拥有）大量的
+>>> *example: a liberal supply of wine*
+>> sufficient 充足的，足够的
+
+- abuse
+> - vt./n.辱骂
+> - vt./n.滥用
+>> corruption, crime, fault, misapplication, misdeed, misuse, sin, wrongdoing (n.)
+>> mishandle, misuse, spoil(v.)
+> - vt./n.虐待
+>>
