@@ -473,11 +473,40 @@
 
 - abuse
 > - vt./n.辱骂
->> gibe, swear words, invective, slander(n.)
->> insult(v/n), swear at, curse(v/n), taunt(v/n), inveigh against, bawl out, dis(**informal**)  (v.)
+>> gibe 嘲弄
+>>
+>> swear words 骂人的话
+>>
+>>> *e.g.  I swear I will not ask participants to count the number of trees.*
+>> swear at 骂人
+>>
+>> invective 谴责，谩骂
+>>
+>> slander(n.) 诽谤，污蔑
+>>
+>> insult(v/n) 侮辱
+>>
+>> curse(v/n) 咒骂
+>>
+>> taunt(v/n) 嘲讽
+>>
+>> inveigh against 谩骂
+>>
+>> bawl out 大声疾呼
+>>
+>> dis(**informal**)  (v.) 批评，骂人
 > - vt./n.滥用
->> misemployment, fault, misapplication, misuse, sin, wrongdoing (n.)
->> mishandle, misuse, misapply, spoil(v.)
+>> misuse, mishandle, misapply, misapplication
+>>> **以上皆为误用，滥用（ksyx：这里应该倾向于误用）**
+>>
+>> misemployment 失业
+>>
+>> sin 罪行
+>>
+>> wrongdoing (n.) 做错事
+>>> *e.g. In fact I have never found out why I was expelled and I have never seen any charge of wrongdoing.*
+>>
+>> spoil(v.) 破坏
+>>
+>> fault 错误，缺点
 > - vt./n.虐待
-
-- 
