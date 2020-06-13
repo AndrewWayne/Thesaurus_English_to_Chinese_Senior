@@ -19,11 +19,11 @@
 >>
 >> leave 遗弃，丢弃
 >>
->> run out on 抛弃（人）
+>> **run out on 抛弃（人）**
 >>
->> throw over 抛弃（人）
+>> **throw over 抛弃（人）**
 >>
->> walk out on 离开，抛弃（人，物）
+>> **walk out on 离开，抛弃（人，物）**
 > - *放弃，终止（责任，义务，项目...）*
 >> abdicate 放弃（职责）
 >>
@@ -45,7 +45,7 @@
 >>
 >> capacity 领悟，理解，办事能力
 >>
->> competence 做事的能力
+>> **competence 做事的能力**
 >>
 >> competency 同上
 >>
@@ -69,7 +69,7 @@
 > - *才能，技艺 （可数/不可数）（天生的，或学习得到的技能）*
 >> adeptness 才能
 >>
->> capability 才能，技艺
+>> **capability 才能，技艺**
 >>
 >> craft 手艺
 >>
@@ -79,7 +79,7 @@
 >>
 >> finesse 手段
 >>
->> flair 才华，天分，资质
+>> **flair 才华，天分，资质**
 >>
 >> genuis 天分，天赋
 >>
@@ -411,6 +411,7 @@
 >>
 >> **immerse 使……沉浸 （in）**
 >>> *example: Since then I've lived alone and immersed myself in my career.*
+>>
 >> **engross 使全神贯注，使关注 （in）**
 >>
 >> preoccupy 使日夜思考
@@ -472,8 +473,11 @@
 
 - abuse
 > - vt./n.辱骂
+>> gibe, swear words, invective, slander(n.)
+>> insult(v/n), swear at, curse(v/n), taunt(v/n), inveigh against, bawl out, dis(**informal**)  (v.)
 > - vt./n.滥用
->> corruption, crime, fault, misapplication, misdeed, misuse, sin, wrongdoing (n.)
->> mishandle, misuse, spoil(v.)
+>> misemployment, fault, misapplication, misuse, sin, wrongdoing (n.)
+>> mishandle, misuse, misapply, spoil(v.)
 > - vt./n.虐待
->>
+
+- 
