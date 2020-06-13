@@ -17,8 +17,6 @@
 >>
 >> dump 丢弃（尤指在不合适的地方）
 >>
->> ditch 丢弃，抛弃（物）
->>
 >> leave 遗弃，丢弃
 >>
 >> run out on 抛弃（人）
@@ -26,8 +24,6 @@
 >> throw over 抛弃（人）
 >>
 >> walk out on 离开，抛弃（人，物）
->>
->> jilt 抛弃，遗弃（情人）
 > - *放弃，终止（责任，义务，项目...）*
 >> abdicate 放弃（职责）
 >>
@@ -36,8 +32,6 @@
 >> waive 放弃（权力，要求）
 >>
 >> yield 放弃（权力，利润，职位）
->>
->> renounce 声明放弃
 >>
 >> stop
 >>
@@ -56,8 +50,6 @@
 >> competency 同上
 >>
 >> comprehension 理解能力，领悟能力
->>
->> dexterity 动手能力，思维能力
 >>
 >> **endowment 天赋**
 >>
@@ -107,29 +99,15 @@
 >>
 >> adequate 合乎要求的
 >>
->> adroit 精明的，干练的（接人待物）
->>
->> agile 动作灵活的，思维敏捷的
->>
->> apt 天资聪颖的
->>
 >> capable 有（适应做某事）能力的，足够胜任的
 >>
 >> **competent 有（满足要求）能力的，足够胜任的**
->>
->> deft 熟练的，有技巧的，灵巧的
->>
->> dexterous 熟练的，敏捷的
 >>
 >> endowed 有天赋的
 >>
 >> experienced 熟练的，有经验的
 >>
->> powerful 有效的，有能力的
->>
 >> brilliant 技艺高的
->>
->> effectual 奏效的，有效的
 >>
 >> gifted 天资聪慧的
 >>
@@ -138,10 +116,6 @@
 >> **proficient 熟练的**
 >>
 >> qualified 有……能力的，有资格的
->>
->> savvy 有见识的，有了解的
->>
->> trained
 >>
 >> talented
 
@@ -272,12 +246,15 @@
 >>
 >> discourteous 不礼貌的，失礼的，粗鲁的
 >>
+>> coarse (人或言论)粗俗的，冒犯的
+>>
+>> offensive 冒犯的
 >> impolite
 >>
 >> rude
 >>
 >> snappy 粗野无礼的，盛气凌人的**informal**
-> - 突然的，意外的
+> - 突然的，意料之外的
 >> sudden
 >>
 >> unexpected 出乎意料的，始料不及的
@@ -285,6 +262,8 @@
 >> unanticipated 没想到的，预料之外的
 >>
 >> unforeseen 未预见的
+>>
+>> unpredictable 意料之外的
 >>
 >> precipitate 草率的，突然的
 >>
@@ -297,9 +276,17 @@
 >>
 >> inadequacy 不足，缺乏（某种东西）**sing**
 >>
->> insufficiency 不充足，缺乏**plural**
+>> insufficiency 不充足，缺乏 **plural**
 >>
 >> lack
+>>
+>> deficiency 缺乏；缺陷 **plural**
+>>
+>> deficit 缺钱 **plural**
+>>
+>> shortage 缺乏（of）
+>>
+>> scarcity 缺乏，匮乏（供应不足)**plural**
 
 - absent
 > - 缺席的，不在的（from）
@@ -311,6 +298,12 @@
 >> lacking 缺乏的（in）
 >>
 >> deficient 缺乏的（in）
+>>
+>> scarce 缺乏的，不足的，稀少的
+>>
+>> short of 缺乏
+>>
+>> in deficit 缺钱（作表语）
 > - 心不在焉的，出神的
 >> distracted 分心的
 >>
@@ -340,9 +333,11 @@
 >>
 >> utter 十足的，极度的
 >>
->> thorough 彻底的，全面的
+>> wholly adv.完全地，全面地
 >>
->> arrant 十足的
+>> totally adv.完全地
+>>
+>> thorough 彻底的，全面的
 > - 完全正确的，无可争议的
 >> certain 确定的，确信的
 >>
@@ -352,8 +347,16 @@
 >>
 >> undoubted 毋庸置疑的
 >>
+>> unquestioned 无可争议的，无疑地
+>>
+>> unquestionable 无疑的
+>>
+>> undisputed 无可争辩的 **interchangeable**
+>>
 >> conclusive 确定的，确凿的
 > - 至高无上的
+>> unconditional 无条件的，绝对的
+>>
 >> unlimited 无限制的
 >>
 >> unbounded 无限的
@@ -361,8 +364,15 @@
 >> ultimate 终极的
 >>
 >> supreme 至上的
+>>
+>> almighty 至高无上的
 > - 绝对的（数学）
 > - 专制的
+>> autocratic 独裁的，独断专行的
+>>
+>> despotic 专制的
+>>
+>> dictatorial 独裁的，专横的
 > - 绝对的（与相对的概念相反）
 >> example: a absolute moral standards
 >>
