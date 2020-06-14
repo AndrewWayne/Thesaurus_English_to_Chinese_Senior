@@ -496,10 +496,8 @@
 >>
 >> dis(**informal**)  (v.) 批评，骂人
 > - vt./n.滥用
->> misuse, mishandle, misapply, misapplication
+>> misuse, mishandle, misapply, misapplication, misemployment 误用(n.)
 >>> **以上皆为误用，滥用（ksyx：这里应该倾向于误用）**
->>
->> misemployment 失业
 >>
 >> sin 罪行
 >>
@@ -510,3 +508,31 @@
 >>
 >> fault 错误，缺点
 > - vt./n.虐待
+
+- academic
+> - 学业的，学术的
+>> scholastic 学业的
+>>
+>> educational 教育的
+>>
+>> collegiate
+> - 学业优秀的
+>> scholarly 有学问的
+>>
+>> studious 勤奋的
+>>
+>> bookish 学究气的
+>>
+>> intellectual 智力的，有智力的
+> - 纯理论的
+>> 见 abstract-抽象的
+> - 高校教师n.
+>> academician 高校教师
+>>
+>> professor 教授
+>>
+>> tutor 导师
+
+- accelerate
+> - vi. 加速
+> - vt. （范围，数目，效率）等增加
