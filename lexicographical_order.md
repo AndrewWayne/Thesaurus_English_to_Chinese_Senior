@@ -147,7 +147,7 @@
 >>
 >> weird
 
-5. aboard
+6. aboard
 > - prep./adv. 上（交通工具），在（交通工具）上
 >> on board 在……上
 >>
@@ -155,7 +155,7 @@
 >>
 >> on one's way 在路上
 
-5. abolish
+7. abolish
 > - v.废除，废止（法律，制度，习俗）
 >> **abrogate** 废除，废止，撤销（法律，协议）
 >>
@@ -173,7 +173,7 @@
 >>
 >> revoke 取消，废除，使无效
 
-- about
+8. about
 > - adv. 四处，到处
 >> here and there 到处**informal**
 >>
@@ -227,14 +227,14 @@
 >>
 >> nearby 在附近的
 
-- abroad
+9. abroad
 > - adv.在国外，到国外
 >> overseas 在海外
 >>
 >> elsewhere 在别处
 > - adv.广为流传
 
-- abrupt
+10. abrupt
 > - adj.（言语行为）粗鲁莽撞的，简短生硬的
 >> blunt 直言的
 >>
@@ -269,7 +269,7 @@
 >>
 >> hasty 草率的，匆忙的
 
-- absence
+11. absence
 > - 不在，缺席
 > - n.缺乏 （of 只做单数）
 >> dearth 缺乏
@@ -288,7 +288,7 @@
 >>
 >> scarcity 缺乏，匮乏（供应不足)
 
-- absent
+12. absent
 > - 缺席的，不在的（from）
 >> elsewhere adv.在别处
 >>
@@ -325,7 +325,7 @@
 >>
 >> unmindful 不留心的，心不在焉的
 
-- absolute
+13. absolute
 > - 十足的，绝对的，断然的
 >> complete 完全的，彻底的
 >>
@@ -382,7 +382,7 @@
 >>
 >> nonrelative 非相对的
 
-- absorb
+14. absorb
 > - vt.吸收
 >> soak up 吸收（液体，信息）
 >>
@@ -416,7 +416,7 @@
 >>
 >> preoccupy 使日夜思考
 
-- abstract
+15. abstract
 > - 抽象的，纯理论的
 >> theoretical 理论的
 >>
@@ -442,7 +442,7 @@
 > - v. 提取
 >> extract 提取（与abstract有区别）
 
-- absurd
+16. absurd
 > - 荒唐可笑的
 >> ridiculous 荒谬可笑的
 >>
@@ -456,7 +456,7 @@
 >>
 >> daffy 古怪的，愚蠢的 **informal**
 
-- abundant
+17. abundant
 > - 丰富的，充裕的，大量的
 >> plentiful 充足的
 >>
@@ -471,7 +471,7 @@
 >>> *example: a liberal supply of wine*
 >> sufficient 充足的，足够的
 
-- abuse
+18. abuse
 > - vt./n.辱骂
 >> gibe 嘲弄
 >>
@@ -509,7 +509,7 @@
 >> fault 错误，缺点
 > - vt./n.虐待
 
-- academic
+19. academic
 > - 学业的，学术的
 >> scholastic 学业的
 >>
@@ -533,7 +533,7 @@
 >>
 >> tutor 导师
 
-- accelerate
+20. accelerate
 > - vt./vi.（运动，具体事物）加快
 >> speed up 加速
 >>
@@ -557,7 +557,7 @@
 >>
 >> **spur 激励（某人），加速（某事）**
 
-- accent
+21. accent
 > - n.口音
 > - n.重读
 > - n.强调，重要性（lay/put/place）
@@ -578,7 +578,7 @@
 >> underline 强调
 >>> 笔者不才，实在难以区分这几者
 
-- accept
+22. accept
 > - 接受，认可，认同，采用
 >> acquire 得到
 >>
@@ -625,7 +625,7 @@
 >> submit to 忍受
 >>> 我弱小菜鸡又无法辨析上面几个容忍了
 
-- acceptable
+23. acceptable
 > - 可接受的，令人满意的
 >> satisfactory 令人满意的，够好的，可以的
 >>
@@ -641,7 +641,7 @@
 >>
 >> agreeable 可接受的
 
-- access
+24. access
 > n.通道，入口
 >> entrance 入口
 >>
@@ -663,7 +663,7 @@
 >> gain access to 得到……的进入权
 > v.存取（数据/文件）
 
-- accessible
+25. accessible
 > - 可接近的；易理解的；易相处的
 >> reachable 可到达的
 >>
@@ -687,7 +687,7 @@
 >>
 >> easygoing 好相处的
 
-- accident
+26. accident
 > - 意外事故
 >> **mishap 不幸的事故**
 >>
