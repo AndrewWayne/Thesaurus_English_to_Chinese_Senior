@@ -689,7 +689,7 @@
 
 - accident
 > - 意外事故
->> mishap 不幸的事故
+>> **mishap 不幸的事故**
 >>
 >> misadventure 不幸遭遇
 >>
@@ -697,7 +697,7 @@
 >>
 >> disaster 灾难（词义过重）
 >>
->> tragedy 灾难，不幸之事
+>> **tragedy 灾难，不幸之事**
 > - 交通事故
 >> crash 撞车
 >>
@@ -709,7 +709,7 @@
 >>
 >> serendipity 偶然，巧合
 >>
->> twist of fate 巧合，命运弄人
+>> **twist of fate 巧合，命运弄人**
 >>> By/In twist of fate 命运弄人的是
 >>
 >> fluke 侥幸 **informal**
