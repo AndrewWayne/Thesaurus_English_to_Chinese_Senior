@@ -534,5 +534,185 @@
 >> tutor 导师
 
 - accelerate
-> - vi. 加速
-> - vt. （范围，数目，效率）等增加
+> - vt./vi.（运动，具体事物）加快
+>> speed up 加速
+>>
+>> pick up speed 加速
+>>
+>> gather speed 逐渐加速
+>>
+>> **put on a spurt 冲刺，加速** **informal**
+> - vt./vi. （过程/效率，抽象事物的变化）加快
+>>> *e.g. Growth will accelerate to 2.9% next year.*
+>>
+>> **hasten 促进（（不好的）过程的发展），加速（做某事）**
+>>
+>> expedite 使（某事）加快
+>>
+>> advance 促进（变化），推动（发展）
+>>
+>> precipitate 加速（坏事的发生）
+>>
+>> speed up
+>>
+>> **spur 激励（某人），加速（某事）**
+
+- accent
+> - n.口音
+> - n.重读
+> - n.强调，重要性（lay/put/place）
+>> siginificance 重要性（对某事有效果）（lay/put/place on）
+>>
+>> **emphasis 强调，重要性（对活动或事物的一部分/一方面）（lay/put/place on）**
+>>
+>> stress 强调，重要性（lay/put/place on）
+> - v.强调（具体细节）
+>> draw attention to 使注意……
+>>
+>> hightlight 突出，强调
+>>
+>> **emphasize 强调**
+>>
+>> stress 强调
+>>
+>> underline 强调
+>>> 笔者不才，实在难以区分这几者
+
+- accept
+> - 接受，认可，认同，采用
+>> acquire 得到
+>>
+>> obtain 获得
+>>
+>> welcome 高兴地接受
+>>
+>> secure 获得
+>>
+>> receive 接受
+>>
+>> acknowledge 承认
+>>
+>> **affirm 肯定**
+>>
+>> approve 赞成，同意（语气较轻）
+>>
+>> **favor 赞同，喜爱**
+>>
+>> adopt 采用
+>>
+>> acquiesce 默许
+>>
+>> admit （勉强）承认；采用，录用
+>>
+>> **consent to 同意，赞同**
+>>
+>> agree to 同意，赞成
+>>
+>> take on 采用，录用（某人）；答应
+>>
+>> undertake 答应
+> - 容忍，忍受，承担
+>> **tolerate 忍受**
+>>
+>> put up with 忍受，容忍
+>>
+>> bear (with) 忍耐，忍受
+>>
+>> **endure 忍耐，忍受**
+>>
+>> stand 容忍，忍受
+>>
+>> submit to 忍受
+>>> 我弱小菜鸡又无法辨析上面几个容忍了
+
+- acceptable
+> - 可接受的，令人满意的
+>> satisfactory 令人满意的，够好的，可以的
+>>
+>> adequate 足够好的
+>>
+>> decent 像样的，尚可的（物）
+>>
+>> pleasing 令人满意的
+>>
+>> tolerable 尚好的，过得去的
+>>
+>> reasonable 可接受的
+>>
+>> agreeable 可接受的
+
+- access
+> n.通道，入口
+>> entrance 入口
+>>
+>> entry 入口
+> n.接近/观看/使用的权利
+>> approach 接近；方法
+>>
+>> admission 许可
+>>
+>> entry 进入许可
+>>
+>> permission 使用许可
+> n.一阵（情绪）**sing**
+>> *e.g. An access of desperation suddenly seized me.*
+> n.存取（计算机领域）
+> v.接近，进入
+>> enter 进入
+>>
+>> gain access to 得到……的进入权
+> v.存取（数据/文件）
+
+- accessible
+> - 可接近的；易理解的；易相处的
+>> reachable 可到达的
+>>
+>> **approachable** 可接近的；易相处的
+>>
+>> obtainable 可得到的
+>>
+>> available
+>>
+>> exoteric 易理解，通俗易懂的 **formal**,**low**
+>>
+>> **comprehensible** 可理解的
+>>
+>> friendly 友善的
+>>
+>> obliging 乐于助人的
+>>
+>> agreeable 亲切友善的
+>>
+>> **congenial** 令人愉快，意气相投的
+>>
+>> easygoing 好相处的
+
+- accident
+> - 意外事故
+>> mishap 不幸的事故
+>>
+>> misadventure 不幸遭遇
+>>
+>> calamity 灾难（词义偏重）
+>>
+>> disaster 灾难（词义过重）
+>>
+>> tragedy 灾难，不幸之事
+> - 交通事故
+>> crash 撞车
+>>
+>> collision 撞车
+>>
+>> bump 撞车
+> - 偶然之事，偶然
+>> coincidence 偶然
+>>
+>> serendipity 偶然，巧合
+>>
+>> twist of fate 巧合，命运弄人
+>>> By/In twist of fate 命运弄人的是
+>>
+>> fluke 侥幸 **informal**
+>>> by a sheer fluke 全靠侥幸
+>>
+>> happenstance 偶然情况（by）
