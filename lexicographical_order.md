@@ -37,7 +37,7 @@
 >>
 >> quit
 
-- ability
+2. ability
 > - *能力（不可数）（指能够做某事的能力）*
 >> aptitude 天赋
 >>
@@ -93,7 +93,7 @@
 >>
 >> skill 技巧，技能
 
-- able
+3. able
 > - *有（超出平均水平）能力的，熟练的，能够...的*（由于部分词义过于接近难以分割）
 >> **adept 熟练的**
 >>
@@ -119,7 +119,7 @@
 >>
 >> talented
 
-- abnormal
+4. abnormal
 > - 不正常的，反常的，畸形的
 >> aberrant 违反常规的，异常的
 >>
@@ -147,7 +147,7 @@
 >>
 >> weird
 
-- aboard
+5. aboard
 > - prep./adv. 上（交通工具），在（交通工具）上
 >> on board 在……上
 >>
@@ -155,7 +155,7 @@
 >>
 >> on one's way 在路上
 
-- abolish
+5. abolish
 > - v.废除，废止（法律，制度，习俗）
 >> **abrogate** 废除，废止，撤销（法律，协议）
 >>
