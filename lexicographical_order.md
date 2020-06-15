@@ -716,3 +716,83 @@
 >>> by a sheer fluke 全靠侥幸
 >>
 >> happenstance 偶然情况（by）
+
+27. accompany
+> - 陪同
+>> go with 跟着
+>>
+>> tag along with 跟随，陪伴 **informal**
+>>
+>> hang out with 跟着出去 **informal**
+>>
+>> escort 陪（某人）去（某地）
+>>
+>> conduct 陪，引导（某人）去（某地）
+>>
+>> lead
+>>
+>> chaperone 监护，陪伴
+> - 伴随
+>>> *e.g. poverty and illness usually accompany one another*
+>>
+>> occur with/co-occur with 与……共同发生
+>>
+>> coexist with与……和谐共存，共同存在
+>>
+>> coincide with 与……同时发生
+
+28. accomplish
+> - vt.完成（任务，工作），达到（目标），结束（旅程）
+>> fulfill 实现（承诺，预言，野心）满足（愿望，梦想）
+>>
+>> achieve 达到，实现，取得，获得
+>>
+>> realize
+>>
+>> attain 实现（目标）获得（知识，地位，快乐）；达到（年龄，大小，数目）
+>>
+>> bring off 完成，做完（艰难的事）
+>>
+>> carry out/through 实施；（艰难地）完成
+>>
+>> execute 成功完成（高难度动作）；实施，执行（计划）
+>>
+>> conclude 达成（条约）
+>>
+>> complete
+
+29. account
+>> 这个多，明天写
+
+30. account for
+> - （数量/比例）占
+>> make up 占
+>>
+>> represent 占据
+>>
+>> P.S. take up 不宜作为 account for 的同义词，两者使用场景没有交集
+>>
+>> take up 占据（位置，阵地）
+>>
+>>
+> - 导致，解释，说明原因
+>> clarify 阐明；澄清
+>>
+>> elucidate 阐明，解释，说明
+>>
+>> demonstrate 证明，说明
+>>
+>> explain 解释，说明，说明（原因）
+>>
+>> illuminate 阐明，解释（道理，主题）
+>>
+>> justify 对（做某事）作出解释
+> - 对（行动，政策）负有责任
+>> answer for 对（问题）负有重大责任；为……付出代价
+>>
+>> be responsible for 为……负责；是……的原因
+>>
+>> in charge of 负责，主管
+>>
+>> liable for 对……有责任
+> - 杀死，打败
