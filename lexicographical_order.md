@@ -532,6 +532,10 @@
 >> professor 教授
 >>
 >> tutor 导师
+>>
+>> mentor 导师
+>>
+>> instructor 讲师
 
 20. accelerate
 > - vt./vi.（运动，具体事物）加快
