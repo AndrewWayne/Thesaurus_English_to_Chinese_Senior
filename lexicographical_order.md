@@ -800,3 +800,89 @@
 >>
 >> liable for 对……有责任
 > - 杀死，打败
+
+31. on account of
+> - 由于，基于(+n.) **formal**（不可作定语）
+>> because of prep.(一般引导状语，不引导表语；但当主语是代词时，在句中可用作表语)
+>>
+>> owing to prep.由于 **informal**
+>>
+>> due to prep.由于，应归因于 **formal**（可以直接做后置定语）
+>>
+>> as a consequence/result of 由于，因此……的结果（有因果义）
+>>
+>> result from vt. 由于……（作表语，动名词可做定语）
+>>
+>> thanks to 多亏了 **informal**
+>>
+>> by/in virtue of 因为（力量，意志）
+>>
+>> in view of 由于（与because of同义）
+
+32. accumulate
+> - v.推积，积累，（数量）逐渐增加
+>> accrue vt.使(钱，利息)逐渐增加，vi.（利润，好处）积累，积聚
+>>
+>> gather/gather up v.（使）聚集；收集，收拢；搜集（情报）；（速度，力量）逐渐增加；聚集（精力，思想）
+>>
+>> collect v.收集（物品、信息），（人）聚集，（数目）累积
+>>
+>> assemble v.（使）收集（成一个组合），（使）集会
+>>
+>> amass v.大量积聚
+>>
+>> run sth up（欠款）累加
+>>
+>> pile up （使）（大量物品）堆积；（使）（工作、损失、问题）积聚
+>>
+>> heap up 同 pile up
+>>> （和增加，储存的意思都有点近，但我不想写了）
+
+33. accurate
+> - 精确的
+>> precise 准确的，确切的，明确的
+>>
+>> concrete 具体的，确实的
+>>
+>> distinct 确定无疑的，确定的，清楚的
+>>
+>> exact 精确的，确切的
+>>
+>> explicit 明确的，清晰的
+>>
+>> specific （表达）明确的，具体的
+>>
+>> unambiguous 明确的，无歧义的
+> - 正确无误的
+>> correct 正确的
+>>
+>> precise 明确的
+>>
+>> exact 完全正确的
+>>
+>> factual 事实的，真实的
+>>
+>> literal 确确实实，完完全全正确
+>>
+>> authentic （信息，记述）真实的，准确的，可靠的
+>>
+>> unerring （能力，判断，眼光）一贯正确，从不出错的
+
+34. accuse
+> - 指责，指控
+>> charge （警方）指控，（公开）谴责（with）
+>>
+>> indict 控告，起诉 （for / on charges of）
+>>
+>> arraign 控告
+>>
+>> impeach 控告，弹劾
+>>
+>> blame 责怪，指责（for | on）
+>>
+>> pin/lay the blame on 把……归咎于……（for）
+>>
+>> criticize 批评，指责
+>>
+>> scold 训斥，责骂
+> - stand accused of sth 因……遭指责/受指控
