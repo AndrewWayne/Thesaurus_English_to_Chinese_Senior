@@ -753,11 +753,11 @@
 >>
 >> realize
 >>
->> attain 实现（目标）获得（知识，地位，快乐）；达到（年龄，大小，数目）
+>> **attain** 实现（目标）获得（知识，地位，快乐）；达到（年龄，大小，数目）
 >>
->> bring off 完成，做完（艰难的事）
+>> **bring off** 完成，做完（艰难的事）
 >>
->> carry out/through 实施；（艰难地）完成
+>> **carry out/through** 实施；（艰难地）完成
 >>
 >> execute 成功完成（高难度动作）；实施，执行（计划）
 >>
@@ -772,7 +772,7 @@
 > - （数量/比例）占
 >> make up 占
 >>
->> represent 占据
+>> **represent** 占据
 >>
 >> P.S. take up 不宜作为 account for 的同义词，两者使用场景没有交集
 >>
@@ -780,7 +780,7 @@
 >>
 >>
 > - 导致，解释，说明原因
->> clarify 阐明；澄清
+>> **clarify** 阐明；澄清
 >>
 >> elucidate 阐明，解释，说明
 >>
@@ -788,7 +788,7 @@
 >>
 >> explain 解释，说明，说明（原因）
 >>
->> illuminate 阐明，解释（道理，主题）
+>> **illuminate** 阐明，解释（道理，主题）
 >>
 >> justify 对（做某事）作出解释
 > - 对（行动，政策）负有责任
@@ -815,7 +815,7 @@
 >>
 >> thanks to 多亏了 **informal**
 >>
->> by/in virtue of 因为（力量，意志）
+>> **by/in virtue of** 因为（力量，意志）
 >>
 >> in view of 由于（与because of同义）
 
@@ -829,7 +829,7 @@
 >>
 >> assemble v.（使）收集（成一个组合），（使）集会
 >>
->> amass v.大量积聚
+>> **amass** v.大量积聚
 >>
 >> run sth up（欠款）累加
 >>
@@ -844,7 +844,7 @@
 >>
 >> concrete 具体的，确实的
 >>
->> distinct 确定无疑的，确定的，清楚的
+>> **distinct** 确定无疑的，确定的，清楚的
 >>
 >> exact 精确的，确切的
 >>
@@ -864,7 +864,7 @@
 >>
 >> literal 确确实实，完完全全正确
 >>
->> authentic （信息，记述）真实的，准确的，可靠的
+>> **authentic** （信息，记述）真实的，准确的，可靠的
 >>
 >> unerring （能力，判断，眼光）一贯正确，从不出错的
 
@@ -880,9 +880,165 @@
 >>
 >> blame 责怪，指责（for | on）
 >>
->> pin/lay the blame on 把……归咎于……（for）
+>> **pin/lay the blame on** 把……归咎于……（for）
 >>
 >> criticize 批评，指责
 >>
 >> scold 训斥，责骂
-> - stand accused of sth 因……遭指责/受指控
+>>
+>> **codemn** 谴责（for）
+> - **stand accused of sth** 因……遭指责/受指控
+
+35. accustomed
+> - 惯常的（定语）
+>> customary 惯常的，照俗的
+>>
+>> usual
+>>
+>> normal
+>>
+>> habitual 习惯性的，已养成习惯的，通常的
+>>
+>> regular 惯常的，平常的
+>>
+>> ordinary
+>>
+>> typical 通常的，平常的（品质）
+> - 习惯于，适应于；(常作 be accustomed to)
+>> used to 习惯于
+>>
+>> **habituated to** 习惯于（同义）
+>>
+>> acclimatized to 适应于（地方、情况、气候）
+>>
+>> acquainted with 熟悉于（人、物、环境）
+
+36. ache
+> n.疼痛（物理）/痛苦（心理）
+>> pain
+>>
+>> cramp 抽筋，痉挛
+>>
+>> **twinge** 一阵剧痛/痛苦 **literary**
+>>> *e.g. a twinge of guilt 一阵内疚*
+>>
+>> pang 剧痛，痛苦
+>>
+>> gnaw/stab/sting 啃/刺/哲，均可作动名词表痛苦（心理/物理）
+>>> *e.g. 作定语是 gnawing 表示 折磨人的*
+>>
+>> soreness (物理)疼痛
+>>
+>> sorrow 悲伤，伤心事
+>>
+>> sadness
+>>
+>> **misery** 痛苦，苦难
+>>> *e.g. lead a life of misery*
+>>
+>> **grief** 悲伤，忧郁
+>>
+>> **anguish 极度痛苦（物理、心理）**
+>>> *e.g. Mark glared at him in anguish.*
+>>
+>> torture/suffering 折磨/痛苦（长期的）**informal**
+> - vi.疼痛，感到痛苦
+>> *e.g. ache with 因……而痛苦 ache for 为……感到痛苦*
+>>
+>> hurt
+>>
+>> pain
+>>
+>> throb 阵阵作痛
+>>
+>> **smart vi.（身体、伤口）引起剧痛/感到痛苦（from/over）**
+>>
+>> grieve vi.感到悲伤（from/over）/vt.使悲伤
+>>
+>> be miserable 感到痛苦
+>>
+>> be in anguish 极度悲痛
+>>
+>> bleed 悲伤/同情
+>>> *常作 my heart bleeds for*
+> 渴望 ache for sth/ache to do sth
+>> long for/todo 渴望
+>>
+>> yearn for/todo 渴望
+>>
+>> hunger for 极度渴望
+>>
+>> thirst for
+>>
+>> hanker (after/for)/todo 渴望
+>>
+>> pine for/todo 渴望（得不到之物）
+>>
+>> itch for/todo 渴望
+>>
+>> crave sth/for sth/todo 渴望
+>>
+>> desire sth/todo渴望
+>>
+>> covet (sth)渴求（一般不跟动作）
+>>
+>> be eager for 渴望
+>>> 上面这几个意思都差不多
+
+37. achieve
+> - 达到，实现，取得，获得
+>> 见28.accomplish
+
+38. acknowledge
+> - vt. 承认（现象、情况），认可（身份、正确性、价值）
+>> admit 不情愿地承认（不好的，不满意的事）
+>>
+>> accept 承认
+>>
+>> grant vt.不情愿地承认
+>>
+>> concede vt.（不情愿地）承认
+>>
+>> confess vt.承认（干了坏事）
+>>
+>> recognize 承认（问题存在，观点正确），认可（支持）
+> - vt.感谢某事/某人
+>> express gratitude for 对……表达感激
+>>
+>> show appreciation for 对……表达感谢
+>>
+>> thank someone for
+
+39. acquaint
+> - vt. 使了解/认识（~ sb with sth）
+>> familiarize sb with使……了解
+>>
+>> make sb aware of 使意识到
+>>
+>> inform sb of 告知
+
+40. acquaintance
+> - n. 相识的人
+>> contact 联系人
+>>
+>> associate 伙伴
+>>
+>> ally 同盟者
+> - n.结识，有关系
+>> association 联系
+>>
+>> relationship 联系
+>>
+>> contact 联系
+>>
+>> fellowship 友情
+>>
+>> companionship 友谊
+> - （对知识）了解，熟悉
+>> familiarity 熟悉，通晓
+>>
+>> knowledge 了解
+>>
+>> awarness 意识，认识，理解
+>>
+>> understanding/comprehension/grasp 理解
