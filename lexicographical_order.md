@@ -904,6 +904,8 @@
 >> ordinary
 >>
 >> typical 通常的，平常的（品质）
+>>
+>> traditional 传统的，平常的
 > - 习惯于，适应于；(常作 be accustomed to)
 >> used to 习惯于
 >>
@@ -938,10 +940,12 @@
 >>
 >> **grief** 悲伤，忧郁
 >>
->> **anguish 极度痛苦（物理、心理）**
+>> **anguish/agony 极度痛苦（物理、心理）**
 >>> *e.g. Mark glared at him in anguish.*
 >>
 >> torture/suffering 折磨/痛苦（长期的）**informal**
+>>
+>> trauma 精神创伤，痛苦经历；外伤
 > - vi.疼痛，感到痛苦
 >> *e.g. ache with 因……而痛苦 ache for 为……感到痛苦*
 >>
@@ -997,12 +1001,12 @@
 >>
 >> grant vt.不情愿地承认
 >>
->> concede vt.（不情愿地）承认
+>> **concede** vt.（不情愿地）承认
 >>
 >> confess vt.承认（干了坏事）
 >>
 >> recognize 承认（问题存在，观点正确），认可（支持）
-> - vt.感谢某事/某人
+> - **vt.公开感谢某事/某人（sb/sth）**
 >> express gratitude for 对……表达感激
 >>
 >> show appreciation for 对……表达感谢
@@ -1023,7 +1027,7 @@
 >>
 >> associate 伙伴
 >>
->> ally 同盟者
+>> ally 同盟者 alliance 同盟
 > - n.结识，有关系
 >> association 联系
 >>
@@ -1033,12 +1037,14 @@
 >>
 >> fellowship 友情
 >>
->> companionship 友谊
+>> **companionship** 友谊
 > - （对知识）了解，熟悉
 >> familiarity 熟悉，通晓
 >>
 >> knowledge 了解
 >>
 >> awarness 意识，认识，理解
+>>
+>> consciousness 意识，观念，理解
 >>
 >> understanding/comprehension/grasp 理解
