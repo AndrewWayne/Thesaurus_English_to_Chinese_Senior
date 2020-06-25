@@ -331,9 +331,9 @@
 >>
 >> entire 完全的，绝对的
 >>
->> **sheer 十足的，完全的**
+>> **sheer 十足的，完全的，纯粹的**
 >>
->> **utter 十足的，极度的**
+>> **utter 十足的，彻底的**
 >>
 >> wholly adv.完全地，全面地
 >>
@@ -352,6 +352,8 @@
 >> unquestioned 无可争议的，无疑地
 >>
 >> unquestionable 无疑的
+>>> 以上三词可配合上面的完全的中的词的副词形式加强语义
+>>> *e.g. utterly unquestionable*
 >>
 >> **undisputed 无可争辩的**
 >>
@@ -415,6 +417,10 @@
 >> **engross 使全神贯注，使关注 （in）**
 >>
 >> preoccupy 使日夜思考
+>>
+>> enchant 使着迷，使陶醉 **formal**
+>>
+>> appeal to 对……有吸引力
 
 15. abstract
 > - 抽象的，纯理论的
@@ -559,7 +565,17 @@
 >>
 >> speed up
 >>
->> **spur 激励（某人），加速（某事）**
+>> **spur 激励（某人），加速（某事）（n+to/into）**
+>>
+>> spur on 用法意义同spur
+>>
+>> boost 使增长，使兴旺
+>>
+>> motivate 促动
+>>
+>> encourage 鼓励
+>>
+>> kindle （某种感情）被激起
 
 21. accent
 > - n.口音
@@ -627,6 +643,10 @@
 >> stand 容忍，忍受
 >>
 >> submit to 忍受
+>>
+>> undergo 经历，经受
+>>
+>> withstand 承受住，经受住
 >>> 我弱小菜鸡又无法辨析上面几个容忍了
 
 23. acceptable
@@ -644,6 +664,8 @@
 >> reasonable 可接受的
 >>
 >> agreeable 可接受的
+>>
+>> gratifying 令人满意的
 
 24. access
 > n.通道，入口
@@ -698,6 +720,8 @@
 >> misadventure 不幸遭遇
 >>
 >> calamity 灾难（词义偏重）
+>>
+>> catastrophe 灾难
 >>
 >> disaster 灾难（词义过重）
 >>
@@ -764,6 +788,10 @@
 >> conclude 达成（条约）
 >>
 >> complete
+>>
+>> reach
+>>
+>> finish
 
 29. account
 >> 这个多，明天写
@@ -789,6 +817,8 @@
 >> explain 解释，说明，说明（原因）
 >>
 >> **illuminate** 阐明，解释（道理，主题）
+>>
+>> illustrate 说明，举例说明（with）
 >>
 >> justify 对（做某事）作出解释
 > - 对（行动，政策）负有责任
@@ -886,7 +916,13 @@
 >>
 >> scold 训斥，责骂
 >>
->> **codemn** 谴责（for）
+>> **condemn** 谴责（for）
+>>
+>> curse 咒骂
+>>
+>> denounce 谴责，指责
+>>
+>> deplore 公开谴责，强烈指责 **formal**
 > - **stand accused of sth** 因……遭指责/受指控
 
 35. accustomed
@@ -906,6 +942,8 @@
 >> typical 通常的，平常的（品质）
 >>
 >> traditional 传统的，平常的
+>>
+>> conventional 守旧的；传统的；常规的
 > - 习惯于，适应于；(常作 be accustomed to)
 >> used to 习惯于
 >>
@@ -968,7 +1006,7 @@
 > 渴望 ache for sth/ache to do sth
 >> long for/todo 渴望
 >>
->> yearn for/todo 渴望
+>> **yearn for/todo 渴望**
 >>
 >> hunger for 极度渴望
 >>
@@ -1048,3 +1086,155 @@
 >> consciousness 意识，观念，理解
 >>
 >> understanding/comprehension/grasp 理解
+
+41. acquire
+> - 得到
+>> obtain 得到
+>>
+>> come by 弄到，得到（意外地）
+>>
+>> get
+>>
+>> receive 得到，收到
+>>
+>> gain 获得，赢得，取得
+>>
+>> earn 赚到
+>>
+>> procure （设法/克服困难）取得，得到 **formal**
+>>
+>> possess oneself of 占为己有
+
+42. across
+> - prep. 横穿过（一面到另一面）;在对面
+>> beyond 在……的那一边
+>>
+>> opposite 在……的对面
+>>
+>> over prep.（穿越）……的上方
+>>
+>> through 穿过，经过，通过
+
+43. action
+> - 行动（做了的事）
+>> deed 行为
+>>
+>> act
+>>
+>> **move 行动**
+>>> *e.g. to make a move 采取行动*
+>>
+>> exploit 英雄事迹
+>>
+>> endeavor 尝试，努力
+>>
+>> behaviour 行为
+>>
+>> **conduct 行为**
+>>
+> - 措施
+>> measures 措施
+>>
+>> **steps 措施**
+>>
+>> activity 行动（一系列为了达到目标而做的措施）
+>>
+>> movement
+>>
+>> work
+>>
+>> operation 行动（如湄公河行动等多人参与的大型行动，规划好的activity）
+
+44. active
+> - 有活力的
+>> energetic 精力充沛的
+>>
+>> lively 充满活力的，活跃的
+>>
+>> sprightly 精神矍铄（尤指老年人）的
+>>
+>> spry 充满活力的
+>>
+>> vigorous 强健的，茁壮的
+>>
+>> vital 生气勃勃的
+>>
+>> dynamic 充满活力的
+> - 积极的
+>> hardworking 勤奋的
+>>
+>> industrious 勤奋的，勤劳的
+>>
+>> diligent 勤奋的，孜孜不倦的（in doing sth）
+>>
+>> tireless 不懈的（作定语）
+>>
+>> enterprising 有事业心的
+>>
+>> enthusiastic 热情的(about)
+>>
+>> keen 热衷的 (on)
+>>
+>> zealous 热情的，积极的（in/about）**低频**
+> - 在运转的，在进行的，有效的
+>> operative 在运转的
+>>
+>> working
+>>
+>> funcioning 正在运转的
+>>
+>> **functional 起作用的**
+>>
+>> operating 同 operative
+>>
+>> operational 运转的
+>>
+>> in action
+>>
+>> in operation
+>>
+>> running
+
+45. activity
+> - n.活跃，忙碌，热闹
+>>> *e.g. The town hums with activity and life. 小镇充满了活力和生气*
+>>
+>> **bustle/hustle n.忙碌喧嚣**
+>>
+>> liveliness n.(地方)热闹，（思维）活跃，（讨论）热烈，（说明，叙述）生动
+>>
+>> flurry n.忙乱，骚动
+> - n.活动（花时间所做之事）
+>> pursuit/occupation/leisure activity/interest/**pastime**/hobby/recreation/diversion 消遣，爱好，业余活动
+>>
+>> **venture（有可能失败）**/undertaking（大且难的任务）/enterprising/project/scheme/business 事业，计划
+> - 行动（一些列活动以达到目的）
+>> action/act/deed/exploit 行动，详细释义见action
+> - 活动，事件
+>> occurrence 发生的事
+>>
+>> **proceedings 事件，（一系列的）活动**
+>>
+>> event （大）事件，（大）活动
+>>
+>> incident （不好的）事件
+
+46. actual
+> - n.真的
+>> real/true/verified/confirmed/defenite(证据真实)/veritable(名副其实的)  真的，真实的
+>>
+>> genuine(真诚的)/**authentic（（感情）真诚的，（人）可信的）** 真实的
+> - n.存在的，实际的
+>> existing 现存的
+>>
+>> existent 存在的
+>>
+>> manifest 明显的
+>>
+>> subtantial 真实存在的
+>>
+>> tangible 可触摸的，真实的
+>>
+>> factual 如实的，事实的
+
+47. acute
