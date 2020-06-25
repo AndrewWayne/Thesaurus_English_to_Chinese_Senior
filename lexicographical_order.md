@@ -1199,7 +1199,7 @@
 > - n.活跃，忙碌，热闹
 >>> *e.g. The town hums with activity and life. 小镇充满了活力和生气*
 >>
->> **bustle/hustle n.忙碌喧嚣**
+>> **bustle/hustle/hustle and bustle n.忙碌喧嚣**
 >>
 >> liveliness n.(地方)热闹，（思维）活跃，（讨论）热烈，（说明，叙述）生动
 >>
