@@ -1264,7 +1264,7 @@
 >>
 >>> 用法辨析：keen, sharp同指物质上的尖锐和思维上的敏锐。acute与keen意思相近，但更多强调对事物的敏感。astute表示对事物、现状的了解透彻，shrewd意思近sharp更侧重于为自己谋私利，与精明的更接近
 
-46. adapt
+48. adapt
 > - vt. 调整...以适用
 >> acclimatize sb to sth 使适应
 >>
@@ -1276,10 +1276,15 @@
 >> habituate sb to sth/doing sth 使习惯于...
 > - vt. 改编
 > - vi. 适应(to)
->> adjust to sth/acclimatize 适应
+>> adjust to sth/acclimatize/accomodate oneself to 适应
 >>
 >> habituate oneself to/get used to 习惯于
 >>
 >> blend in to 融入
 >>
 >> **fit in to** 适合，适应，融入
+
+49. add
+50. adequate
+51. adjust
+52. admire
