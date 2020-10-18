@@ -6,3 +6,4 @@
 6. 修订 academic ~ accident -[x]
 7. 完善 account -[x]
 8. 补全 acute -[x]
+9. 做到50词 -[]

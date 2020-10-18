@@ -1238,4 +1238,48 @@
 >> factual 如实的，事实的
 
 47. acute
-> - 
+> - adj.极度的
+>> severe 严重的
+>>
+>> intense/keen 强烈的
+>>
+>> extreme 极端的
+>>
+>> drastic 极端的，剧烈的，严重的
+>>
+>> terrible/awful/grave 严重的
+>>
+>> **desperate 极严重的**
+> - adj.急性的
+>> sharp/severe/stabbing 剧烈的
+>>
+>> keen 激烈的
+> - adj. 敏锐的
+>> **keen/sharp 聪颖的，敏锐的**
+>>
+>> agile 敏捷的，机敏的
+>>
+>> astute/shrewd 精明的，机敏的
+>>> *e.g. an astute(透彻) understanding of the legal principles involved*
+>>
+>>> 用法辨析：keen, sharp同指物质上的尖锐和思维上的敏锐。acute与keen意思相近，但更多强调对事物的敏感。astute表示对事物、现状的了解透彻，shrewd意思近sharp更侧重于为自己谋私利，与精明的更接近
+
+46. adapt
+> - vt. 调整...以适用
+>> acclimatize sb to sth 使适应
+>>
+>> **modify**/**alter**/change/adjust 调整，改变
+>>> *e.g. adapt/alter/modify the old machines for new purposes*
+>>
+>> improve/**amend**/**refine** 改善，改进
+>>
+>> habituate sb to sth/doing sth 使习惯于...
+> - vt. 改编
+> - vi. 适应(to)
+>> adjust to sth/acclimatize 适应
+>>
+>> habituate oneself to/get used to 习惯于
+>>
+>> blend in to 融入
+>>
+>> **fit in to** 适合，适应，融入
