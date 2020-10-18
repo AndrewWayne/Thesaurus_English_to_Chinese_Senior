@@ -581,7 +581,7 @@
 > - n.口音
 > - n.重读
 > - n.强调，重要性（lay/put/place）
->> siginificance 重要性（对某事有效果）（lay/put/place on）
+>> significance 重要性（对某事有效果）（lay/put/place on）
 >>
 >> **emphasis 强调，重要性（对活动或事物的一部分/一方面）（lay/put/place on）**
 >>
@@ -589,7 +589,7 @@
 > - v.强调（具体细节）
 >> draw attention to 使注意……
 >>
->> hightlight 突出，强调
+>> highlight 突出，强调
 >>
 >> **emphasize 强调**
 >>
@@ -1238,3 +1238,4 @@
 >> factual 如实的，事实的
 
 47. acute
+> - 

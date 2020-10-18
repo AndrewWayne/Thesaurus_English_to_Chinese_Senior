@@ -4,5 +4,5 @@
 4. 修订 absorb ~ abuse -[x]
 5. 6.14日欠三词 -[x]
 6. 修订 academic ~ accident -[x]
-7. 完善 account -[]
-8. 补全 acute -[]
+7. 完善 account -[x]
+8. 补全 acute -[x]
