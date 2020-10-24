@@ -229,9 +229,10 @@
 
 9. abroad
 > - adv.在国外，到国外
->> overseas 在海外
->>
->> elsewhere 在别处
+> > overseas 在海外
+> >
+> > elsewhere 在别处
+>
 > - adv.广为流传
 
 10. abrupt
@@ -479,40 +480,41 @@
 
 18. abuse
 > - vt./n.辱骂
->> gibe 嘲弄
->>
->> swear words 骂人的话
->>
->>> *e.g.  I swear I will not ask participants to count the number of trees.*
->> swear at 骂人
->>
->> invective 谴责，谩骂
->>
->> slander(n.) 诽谤，污蔑
->>
->> insult(v/n) 侮辱
->>
->> curse(v/n) 咒骂
->>
->> taunt(v/n) 嘲讽
->>
->> inveigh against 谩骂
->>
->> bawl out 大声疾呼
->>
->> dis(**informal**)  (v.) 批评，骂人
+> > gibe 嘲弄
+> >
+> > swear words 骂人的话
+> >
+> >> *e.g.  I swear I will not ask participants to count the number of trees.*
+> > swear at 骂人
+> >
+> > invective 谴责，谩骂
+> >
+> > slander(n.) 诽谤，污蔑
+> >
+> > insult(v/n) 侮辱
+> >
+> > curse(v/n) 咒骂
+> >
+> > taunt(v/n) 嘲讽
+> >
+> > inveigh against 谩骂
+> >
+> > bawl out 大声疾呼
+> >
+> > dis(**informal**)  (v.) 批评，骂人
 > - vt./n.滥用
->> misuse, mishandle, misapply, misapplication, misemployment 误用(n.)
->>> **以上皆为误用，滥用（ksyx：这里应该倾向于误用）**
->>
->> sin 罪行
->>
->> wrongdoing (n.) 做错事
->>> *e.g. In fact I have never found out why I was expelled and I have never seen any charge of wrongdoing.*
->>
->> spoil(v.) 破坏
->>
->> fault 错误，缺点
+> > misuse, mishandle, misapply, misapplication, misemployment 误用(n.)
+> >> **以上皆为误用，滥用（ksyx：这里应该倾向于误用）**
+> >
+> > sin 罪行
+> >
+> > wrongdoing (n.) 做错事
+> >> *e.g. In fact I have never found out why I was expelled and I have never seen any charge of wrongdoing.*
+> >
+> > spoil(v.) 破坏
+> >
+> > fault 错误，缺点
+>
 > - vt./n.虐待
 
 19. academic
@@ -581,73 +583,75 @@
 > - n.口音
 > - n.重读
 > - n.强调，重要性（lay/put/place）
->> significance 重要性（对某事有效果）（lay/put/place on）
->>
->> **emphasis 强调，重要性（对活动或事物的一部分/一方面）（lay/put/place on）**
->>
->> stress 强调，重要性（lay/put/place on）
+> > significance 重要性（对某事有效果）（lay/put/place on）
+> >
+> > **emphasis 强调，重要性（对活动或事物的一部分/一方面）（lay/put/place on）**
+> >
+> > stress 强调，重要性（lay/put/place on）
 > - v.强调（具体细节）
->> draw attention to 使注意……
->>
->> highlight 突出，强调
->>
->> **emphasize 强调**
->>
->> stress 强调
->>
->> underline 强调
->>> 笔者不才，实在难以区分这几者
+> > draw attention to 使注意……
+> >
+> > highlight 突出，强调
+> >
+> > **emphasize 强调**
+> >
+> > stress 强调
+> >
+> > underline 强调
+> >
+> > > 笔者不才，实在难以区分这几者
 
 22. accept
 > - 接受，认可，认同，采用
->> acquire 得到
->>
->> obtain 获得
->>
->> welcome 高兴地接受
->>
->> secure 获得
->>
->> receive 接受
->>
->> acknowledge 承认
->>
->> **affirm 肯定**
->>
->> approve 赞成，同意（语气较轻）
->>
->> **favor 赞同，喜爱**
->>
->> adopt 采用
->>
->> acquiesce 默许
->>
->> admit （勉强）承认；采用，录用
->>
->> **consent to 同意，赞同**
->>
->> agree to 同意，赞成
->>
->> take on 采用，录用（某人）；答应
->>
->> undertake 答应
+> > acquire 得到
+> >
+> > obtain 获得
+> >
+> > welcome 高兴地接受
+> >
+> > secure 获得
+> >
+> > receive 接受
+> >
+> > acknowledge 承认
+> >
+> > **affirm 肯定**
+> >
+> > approve 赞成，同意（语气较轻）
+> >
+> > **favor 赞同，喜爱**
+> >
+> > adopt 采用
+> >
+> > acquiesce 默许
+> >
+> > admit （勉强）承认；采用，录用
+> >
+> > **consent to 同意，赞同**
+> >
+> > agree to 同意，赞成
+> >
+> > take on 采用，录用（某人）；答应
+> >
+> > undertake 答应
 > - 容忍，忍受，承担
->> **tolerate 忍受**
->>
->> put up with 忍受，容忍
->>
->> bear (with) 忍耐，忍受
->>
->> **endure 忍耐，忍受**
->>
->> stand 容忍，忍受
->>
->> submit to 忍受
->>
->> undergo 经历，经受
->>
->> withstand 承受住，经受住
->>> 我弱小菜鸡又无法辨析上面几个容忍了
+> > **tolerate 忍受**
+> >
+> > put up with 忍受，容忍
+> >
+> > bear (with) 忍耐，忍受
+> >
+> > **endure 忍耐，忍受**
+> >
+> > stand 容忍，忍受
+> >
+> > submit to 忍受
+> >
+> > undergo 经历，经受
+> >
+> > withstand 承受住，经受住
+> >
+> > > 我弱小菜鸡又无法辨析上面几个容忍了
 
 23. acceptable
 > - 可接受的，令人满意的
@@ -798,37 +802,38 @@
 
 30. account for
 > - （数量/比例）占
->> make up 占
->>
->> **represent** 占据
->>
->> P.S. take up 不宜作为 account for 的同义词，两者使用场景没有交集
->>
->> take up 占据（位置，阵地）
->>
->>
+> > make up 占
+> >
+> > **represent** 占据
+> >
+> > P.S. take up 不宜作为 account for 的同义词，两者使用场景没有交集
+> >
+> > take up 占据（位置，阵地）
+> >
+> >
 > - 导致，解释，说明原因
->> **clarify** 阐明；澄清
->>
->> elucidate 阐明，解释，说明
->>
->> demonstrate 证明，说明
->>
->> explain 解释，说明，说明（原因）
->>
->> **illuminate** 阐明，解释（道理，主题）
->>
->> illustrate 说明，举例说明（with）
->>
->> justify 对（做某事）作出解释
+> > **clarify** 阐明；澄清
+> >
+> > elucidate 阐明，解释，说明
+> >
+> > demonstrate 证明，说明
+> >
+> > explain 解释，说明，说明（原因）
+> >
+> > **illuminate** 阐明，解释（道理，主题）
+> >
+> > illustrate 说明，举例说明（with）
+> >
+> > justify 对（做某事）作出解释
 > - 对（行动，政策）负有责任
->> answer for 对（问题）负有重大责任；为……付出代价
->>
->> be responsible for 为……负责；是……的原因
->>
->> in charge of 负责，主管
->>
->> liable for 对……有责任
+> > answer for 对（问题）负有重大责任；为……付出代价
+> >
+> > be responsible for 为……负责；是……的原因
+> >
+> > in charge of 负责，主管
+> >
+> > liable for 对……有责任
+>
 > - 杀死，打败
 
 31. on account of
@@ -851,22 +856,23 @@
 
 32. accumulate
 > - v.推积，积累，（数量）逐渐增加
->> accrue vt.使(钱，利息)逐渐增加，vi.（利润，好处）积累，积聚
->>
->> gather/gather up v.（使）聚集；收集，收拢；搜集（情报）；（速度，力量）逐渐增加；聚集（精力，思想）
->>
->> collect v.收集（物品、信息），（人）聚集，（数目）累积
->>
->> assemble v.（使）收集（成一个组合），（使）集会
->>
->> **amass** v.大量积聚
->>
->> run sth up（欠款）累加
->>
->> pile up （使）（大量物品）堆积；（使）（工作、损失、问题）积聚
->>
->> heap up 同 pile up
->>> （和增加，储存的意思都有点近，但我不想写了）
+> > accrue vt.使(钱，利息)逐渐增加，vi.（利润，好处）积累，积聚
+> >
+> > gather/gather up v.（使）聚集；收集，收拢；搜集（情报）；（速度，力量）逐渐增加；聚集（精力，思想）
+> >
+> > collect v.收集（物品、信息），（人）聚集，（数目）累积
+> >
+> > assemble v.（使）收集（成一个组合），（使）集会
+> >
+> > **amass** v.大量积聚
+> >
+> > run sth up（欠款）累加
+> >
+> > pile up （使）（大量物品）堆积；（使）（工作、损失、问题）积聚
+> >
+> > heap up 同 pile up
+> >
+> > > （和增加，储存的意思都有点近，但我不想写了）
 
 33. accurate
 > - 精确的
@@ -900,29 +906,30 @@
 
 34. accuse
 > - 指责，指控
->> charge （警方）指控，（公开）谴责（with）
->>
->> indict 控告，起诉 （for / on charges of）
->>
->> arraign 控告
->>
->> impeach 控告，弹劾
->>
->> blame 责怪，指责（for | on）
->>
->> **pin/lay the blame on** 把……归咎于……（for）
->>
->> criticize 批评，指责
->>
->> scold 训斥，责骂
->>
->> **condemn** 谴责（for）
->>
->> curse 咒骂
->>
->> denounce 谴责，指责
->>
->> deplore 公开谴责，强烈指责 **formal**
+> > charge （警方）指控，（公开）谴责（with）
+> >
+> > indict 控告，起诉 （for / on charges of）
+> >
+> > arraign 控告
+> >
+> > impeach 控告，弹劾
+> >
+> > blame 责怪，指责（for | on）
+> >
+> > **pin/lay the blame on** 把……归咎于……（for）
+> >
+> > criticize 批评，指责
+> >
+> > scold 训斥，责骂
+> >
+> > **condemn** 谴责（for）
+> >
+> > curse 咒骂
+> >
+> > denounce 谴责，指责
+> >
+> > deplore 公开谴责，强烈指责 **formal**
+>
 > - **stand accused of sth** 因……遭指责/受指控
 
 35. accustomed
@@ -955,77 +962,78 @@
 
 36. ache
 > n.疼痛（物理）/痛苦（心理）
->> pain
->>
->> cramp 抽筋，痉挛
->>
->> **twinge** 一阵剧痛/痛苦 **literary**
->>> *e.g. a twinge of guilt 一阵内疚*
->>
->> pang 剧痛，痛苦
->>
->> gnaw/stab/sting 啃/刺/哲，均可作动名词表痛苦（心理/物理）
->>> *e.g. 作定语是 gnawing 表示 折磨人的*
->>
->> soreness (物理)疼痛
->>
->> sorrow 悲伤，伤心事
->>
->> sadness
->>
->> **misery** 痛苦，苦难
->>> *e.g. lead a life of misery*
->>
->> **grief** 悲伤，忧郁
->>
->> **anguish/agony 极度痛苦（物理、心理）**
->>> *e.g. Mark glared at him in anguish.*
->>
->> torture/suffering 折磨/痛苦（长期的）**informal**
->>
->> trauma 精神创伤，痛苦经历；外伤
+> > pain
+> >
+> > cramp 抽筋，痉挛
+> >
+> > **twinge** 一阵剧痛/痛苦 **literary**
+> >> *e.g. a twinge of guilt 一阵内疚*
+> >
+> > pang 剧痛，痛苦
+> >
+> > gnaw/stab/sting 啃/刺/哲，均可作动名词表痛苦（心理/物理）
+> >> *e.g. 作定语是 gnawing 表示 折磨人的*
+> >
+> > soreness (物理)疼痛
+> >
+> > sorrow 悲伤，伤心事
+> >
+> > sadness
+> >
+> > **misery** 痛苦，苦难
+> >> *e.g. lead a life of misery*
+> >
+> > **grief** 悲伤，忧郁
+> >
+> > **anguish/agony 极度痛苦（物理、心理）**
+> >> *e.g. Mark glared at him in anguish.*
+> >
+> > torture/suffering 折磨/痛苦（长期的）**informal**
+> >
+> > trauma 精神创伤，痛苦经历；外伤
 > - vi.疼痛，感到痛苦
->> *e.g. ache with 因……而痛苦 ache for 为……感到痛苦*
->>
->> hurt
->>
->> pain
->>
->> throb 阵阵作痛
->>
->> **smart vi.（身体、伤口）引起剧痛/感到痛苦（from/over）**
->>
->> grieve vi.感到悲伤（from/over）/vt.使悲伤
->>
->> be miserable 感到痛苦
->>
->> be in anguish 极度悲痛
->>
->> bleed 悲伤/同情
->>> *常作 my heart bleeds for*
-> 渴望 ache for sth/ache to do sth
->> long for/todo 渴望
->>
->> **yearn for/todo 渴望**
->>
->> hunger for 极度渴望
->>
->> thirst for
->>
->> hanker (after/for)/todo 渴望
->>
->> pine for/todo 渴望（得不到之物）
->>
->> itch for/todo 渴望
->>
->> crave sth/for sth/todo 渴望
->>
->> desire sth/todo渴望
->>
->> covet (sth)渴求（一般不跟动作）
->>
->> be eager for 渴望
->>> 上面这几个意思都差不多
+> > *e.g. ache with 因……而痛苦 ache for 为……感到痛苦*
+> >
+> > hurt
+> >
+> > pain
+> >
+> > throb 阵阵作痛
+> >
+> > **smart vi.（身体、伤口）引起剧痛/感到痛苦（from/over）**
+> >
+> > grieve vi.感到悲伤（from/over）/vt.使悲伤
+> >
+> > be miserable 感到痛苦
+> >
+> > be in anguish 极度悲痛
+> >
+> > bleed 悲伤/同情
+> > > *常作 my heart bleeds for*
+> > 渴望 ache for sth/ache to do sth
+> > long for/todo 渴望
+> >
+> > **yearn for/todo 渴望**
+> >
+> > hunger for 极度渴望
+> >
+> > thirst for
+> >
+> > hanker (after/for)/todo 渴望
+> >
+> > pine for/todo 渴望（得不到之物）
+> >
+> > itch for/todo 渴望
+> >
+> > crave sth/for sth/todo 渴望
+> >
+> > desire sth/todo渴望
+> >
+> > covet (sth)渴求（一般不跟动作）
+> >
+> > be eager for 渴望
+> >
+> > > 上面这几个意思都差不多
 
 37. achieve
 > - 达到，实现，取得，获得
@@ -1288,3 +1296,106 @@
 50. adequate
 51. adjust
 52. admire
+
+
+
+### B
+
+***
+
+1. baby
+
+>* n.[c] 婴儿
+>
+>> infant
+>>
+>> trottie
+>>
+>> nursling
+>
+>* adj.(蔬菜)小型的，幼嫩的
+
+2. bachelor
+
+> * n.[c] 学士
+>
+> > master 硕士
+> >
+> > doctor  博士
+> >
+> > professor 教授
+>
+> * n.[c]未婚男子，单身汉
+>
+> > single 单身的
+> >
+> > Unmarried man
+
+3. back
+
+>* n.[c]背部，脊柱
+>
+>> dorsum 背部
+>>
+>> spine 脊柱
+>
+>* n.[c]反面，背面
+>
+>> reverse side 
+>>
+>> contrary
+>>
+>> wrong side 反面
+>>
+>> rear 后部
+>>
+>> in/at the back of   = behind = in the rear of
+>
+>* adj.后面的，过期的 
+>
+>> expired 到期的
+>>
+>> rearward 后面的
+>
+>* adv.向后，在后
+>
+>> backwards
+>>
+>> rearwards
+>>
+>> (船)astern
+>
+>* adv.回原处，原状
+>
+>> get back=restore the status quo ante
+>>
+>> ​			   =restore to the former state
+>
+>* adv.回应
+>
+>* 以前，回溯
+>
+>> before
+>>
+>> formerly
+>>
+>> prior to 在...之前
+>>
+>> previously
+>>
+>> trace back to = date from
+>
+>* vt.&vi. （使）后退
+>
+>* vt. 支持[常被动]
+>
+>> support
+>>
+>> stand by
+>>
+>> give  backing to 给予···支持
+>>
+>> back up 支持，备份
+>>
+>> sustain 维持(生命，生存)，使保持
+
