@@ -2,7 +2,8 @@
 *删除部分单词*
 *加粗的是我比较喜欢的单词*
 ---
-## Unit 01
+## A
+
 1. abandon
 > - *逃离，离弃（某地）*
 >> desert 舍弃，离弃，逃走
@@ -1299,7 +1300,7 @@
 
 
 
-### B
+## B
 
 ***
 
@@ -1399,3 +1400,151 @@
 >>
 >> sustain 维持(生命，生存)，使保持
 
+4.  background
+
+>   *   n.[C]出身
+>   *   n.[C,U]背景（事件）
+>
+>   >   condition 状态,状况,健康状况
+>   >
+>   >   state 状态,状况
+>   >
+>   >   status 状态
+>   >
+>   >   situation 情况,状况,形势,局面
+>   >
+>   >   position 处境
+>   >
+>   >   **circumstances 条件,环境,状况,境况,境遇**
+
+5.  backpack
+
+>   *   n.[C] 背包
+>
+>   >   knapsack 小背包
+>   >
+>   >   packsack
+>   >
+>   >   rucksack 旅行包
+
+6.  backstage
+
+>   *   adj.&adv.向后的，朝后的
+>
+>   >   backward
+
+7.  backward
+
+>   *   adj.[只修饰名词]向后的，朝后的，落后的
+
+8.  bacon
+
+>   *   n.咸肉
+
+9.  bacterium
+
+>   *   n.[C]细菌
+
+10.  bad
+
+>   *   adj. 坏的，糟糕的
+>
+>   >   an unpleasant /a foul /a disgusting smell 令人不适的 / 难闻的 / 令人恶心的气味
+>   >
+>   >   appalling / dreadful / severe weather 糟透的 / 十分恶劣的 / 非常恶劣的天气
+>   >
+>   >   an unpleasant /a frightening /a traumatic experience 不愉快的 / 可怕的 / 痛苦难忘的经历
+>   >
+>   >   poor / weak eyesight 视力差
+>   >
+>   >   a terrible / serious / horrific accident 骇人的 / 严重的 / 可怕的事故
+>   >
+>   >   a wicked /an evil /an immoral person 恶毒的 / 邪恶的 / 道德败坏的人
+>   >
+>   >   an awkward /an embarrassing /a difficult situation 令人尴尬的 / 使人难堪的 / 艰难的处境
+>   >
+>   >   We were working in difficult / appalling conditions. 我们在艰苦的 / 恶劣的条件下工作。
+>
+>   *   有害的，不利的
+>
+>   >   harmful
+>   >
+>   >   unfavorable
+>   >
+>   >   adverse
+>
+>   *   有病的，不舒服的
+>
+>   >   ill
+>   >
+>   >   sick
+>   >
+>   >   uncomfortable
+>
+>   *   不擅长的
+>
+>   >   not good at
+>   >
+>   >   lack of 欠缺
+
+11.  badly
+
+>   *    很,非常
+>
+>   >   awfully
+>   >
+>   >   seriously
+>   >
+>   >   extremely
+>   >
+>   >   super 特别，格外
+>   >
+>   >   **exceedingly 极其，非常，特别**
+
+12.  badminton
+
+13.  bag 见B5 backpack
+14.  bakery
+15.  balance 
+
+>   *   n.[C] 天平秤
+>   *   n.[U] 平衡，均衡
+>
+>   >   equity
+>   >
+>   >   equilibrium
+>   >
+>   >   fairness 公平
+>   >
+>   >   justice
+>   >
+>   >   justness 公正
+>
+>   *   vt.&vi 保持平衡
+>
+>   >   equilibrize
+
+16.  ball
+17.  ballet
+18.  balloon
+19.  bamboo
+20.  ban
+
+>   *   vt.禁止
+>
+>   >   ban
+>   >
+>   >   block 阻碍
+>   >
+>   >   inhibit 阻止
+>   >
+>   >   enjoin 禁止
+>   >
+>   >   bar
+>   >
+>   >   forbit
+>   >
+>   >   restrain 制止
+
+21.  banana
+22.  band
